@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:test_one/main.dart';
+import '../utils/constants.dart';
 
 class ChooseLanguagePageBody extends StatefulWidget {
   const ChooseLanguagePageBody({super.key});

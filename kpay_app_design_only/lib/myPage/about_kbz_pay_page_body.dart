@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:test_one/main.dart';
+
+import '../utils/constants.dart';
 
 class AboutKBZPayPageBody extends StatelessWidget {
   const AboutKBZPayPageBody({super.key});

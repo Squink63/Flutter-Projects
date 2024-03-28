@@ -4,13 +4,13 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import 'package:test_one/discount_item.dart';
-import 'package:test_one/home_page_item.dart';
-import 'package:test_one/main.dart';
-import 'package:test_one/my_balance_page.dart';
+import 'package:test_one/item_view/home_page_item.dart';
+import '../item_view/LifeItemView.dart';
+import '../item_view/discount_item.dart';
+import '../utils/constants.dart';
+import 'package:test_one/pages/my_balance_page.dart';
 
-import 'LifeItemView.dart';
-import 'my_service_item.dart';
+
 
 class KPayHomePage extends StatelessWidget {
   const KPayHomePage({super.key});

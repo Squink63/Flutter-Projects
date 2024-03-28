@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:test_one/message_item.dart';
+import 'package:test_one/item_view/message_item.dart';
 
 class ShareAppPageBody extends StatelessWidget {
   const ShareAppPageBody({super.key});

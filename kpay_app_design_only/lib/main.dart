@@ -1,164 +1,65 @@
 import 'package:flutter/material.dart';
-import 'package:test_one/a_bank_page.dart';
-// import 'package:easy_localization/easy_localization.dartrt';
-import 'package:test_one/aya_pay_agent_login.dart';
-import 'package:test_one/kpay_main_page.dart';
-
+import 'package:test_one/pages/kapy_my_page.dart';
+import 'package:test_one/pages/kpay_home_page.dart';
+import 'package:test_one/pages/kpay_life_page.dart';
+import 'package:test_one/pages/kpay_message_page.dart';
+import '../utils/constants.dart';
 void main() {
-  runApp(
-      // EasyLocalization(
-      //     supportedLocales: [Locale('en', 'US'), Locale('es', 'ES')],
-      //     path: "jsons",
-      //   fallbackLocale: Locale("en", "US"),
-           const KPayMainPage(),
-      );
+  runApp(const KPayMainPage());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class KPayMainPage extends StatefulWidget {
+  const KPayMainPage({super.key});
 
-  // This widget is the root of your application.
+  @override
+  State<KPayMainPage> createState() => _KPayMainPageState();
+}
+
+class _KPayMainPageState extends State<KPayMainPage> {
+
+  var currentIndex = 0;
+
+  var widgetsToShow = [
+    const KPayHomePage(),
+    const KPayLifePage(),
+    const KPayMessagePage(),
+    const KPayMyPage()
+  ];
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      // debugShowCheckedModeBanner: false,
-      // localizationsDelegates: context.localizationDelegates,
-      // supportedLocales: context.supportedLocales,
-      // locale: context.locale,
       theme: ThemeData(
+        tabBarTheme: TabBarTheme(
 
+        )
       ),
-      home: const ABankPage(),
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        backgroundColor: kPrimaryKPayColor,
+        body: SafeArea(child: widgetsToShow[currentIndex]),
+        bottomNavigationBar: BottomNavigationBar(
+          items: [
+            BottomNavigationBarItem(
+                icon: Icon(Icons.home), label: "Home"),
+            BottomNavigationBarItem(
+                icon: Icon(Icons.dashboard), label: "Life"),
+            BottomNavigationBarItem(
+                icon: Badge(label: Text("99+"),child: Icon(Icons.wallet)), label: "Message"),
+            BottomNavigationBarItem(
+                icon: Icon(Icons.person), label: "My"),
+          ],
+          type: BottomNavigationBarType.fixed,
+          currentIndex: currentIndex,
+          selectedItemColor: kPrimaryKPayColor,
+          unselectedItemColor: Colors.grey,
+          showUnselectedLabels: true,
+          onTap: (selectedIndex) {
+            setState(() {
+              currentIndex = selectedIndex;
+            });
+          },
+        ),
+      ),
     );
   }
 }
-
-class LoginPage extends StatelessWidget{
-  const LoginPage({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-
-    return  Scaffold(
-      appBar: AppBar(
-        backgroundColor: const Color.fromRGBO(35, 56, 109, 1.0),
-        toolbarHeight: 230.0,
-        leading: const Padding(
-          padding: EdgeInsets.only(left: 30.0,top: 55.0),
-          child: Text(
-            "Welcome back ",
-            style: TextStyle(
-              color: Colors.white,
-              fontSize: 30.0,
-              fontWeight: FontWeight.bold
-            ),
-          ),
-        ),
-        leadingWidth: 200.0,
-      ),
-
-      body: Container(
-        color: const Color.fromRGBO(35, 56, 109, 1.0),
-        child:  Container(
-          decoration: const BoxDecoration(
-              borderRadius: BorderRadius.only(topRight: Radius.circular(35.0), topLeft: Radius.circular(35.0)),
-              color: Colors.white
-          ),
-          child:  Padding(
-            padding: const EdgeInsets.all(30.0),
-            child: Column(
-              mainAxisSize: MainAxisSize.max,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-
-                const Text("Sign in to continue",
-                  textAlign: TextAlign.start,
-                  style: TextStyle(
-                    color: Colors.black54,
-                    fontSize: 18.0,
-                  ),
-                ),
-
-                const SizedBox(
-                  height: 35.0,
-                ),
-
-                const Text("Username",
-                  textAlign: TextAlign.right,
-                  style: TextStyle(
-                    color: Colors.black54,
-                    fontSize: 18.0,
-                  ),
-                ),
-
-                const TextField(
-
-                ),
-
-                const SizedBox(
-                  height: 35.0,
-                ),
-
-                const Text("Password",
-                  textAlign: TextAlign.start,
-                  style: TextStyle(
-                    color: Colors.black54,
-                    fontSize: 18.0,
-                  ),
-                ),
-
-                const TextField(
-
-                ),
-
-                const SizedBox(
-                  height: 35.0,
-                ),
-
-                SizedBox(
-                  width: 180,
-                  height: 48,
-                  child: ElevatedButton(
-                    onPressed: (){},
-                    style: ElevatedButton.styleFrom(
-                        backgroundColor:  const Color.fromRGBO(35, 56, 109, 1.0),
-                        shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(12.0)
-                        )
-                    ),
-                    child:  const Text("Sign In",
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 20,
-                      ),
-                    ),
-                  ),
-                ),
-
-                const SizedBox(
-                  height: 35.0,
-                ),
-
-                const Text("Forget password?",
-                  textAlign: TextAlign.start,
-                  style: TextStyle(
-                    color: Colors.black54,
-                    fontSize: 18.0,
-                  ),
-                ),
-              ],
-            ),
-          ),
-        ),
-
-      ),
-    );
-  }
-
-}
-
-const Color kPrimaryKPayColor = Color.fromRGBO(27, 85, 166, 1.0);
-const String kImage = "assets/images/";
-
-

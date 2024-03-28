@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:test_one/utils/constants.dart';
 
-import 'main.dart';
+
 
 class CashOutPage extends StatelessWidget {
   const CashOutPage({super.key});
+
 
   @override
   Widget build(BuildContext context) {

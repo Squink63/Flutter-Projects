@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:test_one/main.dart';
 
 import '../data/my_profilfe.dart';
+import '../utils/constants.dart';
 
 class NextToMyProfilePage extends StatelessWidget {
   final int index;

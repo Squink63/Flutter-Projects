@@ -2,8 +2,7 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:test_one/main.dart';
-
+import '../../utils/constants.dart';
 class MessageItem extends StatelessWidget {
   final int index;
   const MessageItem({super.key, required this.index});

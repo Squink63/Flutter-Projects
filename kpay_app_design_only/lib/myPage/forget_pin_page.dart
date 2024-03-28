@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../main.dart';
+import '../utils/constants.dart';
 
 class ForgetPinPage extends StatelessWidget {
   const ForgetPinPage({super.key});

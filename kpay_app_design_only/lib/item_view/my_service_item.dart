@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:test_one/main.dart';
-
+import '../../utils/constants.dart';
 class ListItemApp extends StatelessWidget {
   final int listItemIconIndex;
   final List<int> gridItemCount;

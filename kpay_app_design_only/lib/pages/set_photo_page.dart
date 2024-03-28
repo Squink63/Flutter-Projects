@@ -1,7 +1,6 @@
 // import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'package:test_one/main.dart';
-
+import '../../utils/constants.dart';
 class SetPhotoPage extends StatelessWidget {
   const SetPhotoPage({super.key});
 

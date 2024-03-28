@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:test_one/Go.dart';
-import 'package:test_one/main.dart';
+import 'package:test_one/pages/Go.dart';
+import 'package:test_one/pages/set_photo_page.dart';
+import '../utils/constants.dart';
 import 'package:test_one/myPage/my_profile_page.dart';
-import 'package:test_one/set_photo_page.dart';
 
 class KPayMyPage extends StatelessWidget {
    const KPayMyPage({super.key});

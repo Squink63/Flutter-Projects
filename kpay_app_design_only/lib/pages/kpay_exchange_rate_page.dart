@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:test_one/kpay_home_page.dart';
 
-import 'main.dart';
+import '../utils/constants.dart';
+import 'kpay_home_page.dart';
 
 class KPayExchangeRatePage extends StatefulWidget {
   const KPayExchangeRatePage({super.key});

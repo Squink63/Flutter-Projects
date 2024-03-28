@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:test_one/utils/constants.dart';
 
-import 'main.dart';
 
 class CashInPage extends StatelessWidget {
   const CashInPage({super.key});

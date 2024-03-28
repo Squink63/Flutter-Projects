@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:test_one/main.dart';
-
-import 'LifeItemView.dart';
+import '../../utils/constants.dart';
+import '../item_view/LifeItemView.dart';
 
 
 class KPayLifePage extends StatelessWidget {

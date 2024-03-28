@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:test_one/cash_in_page.dart';
-import 'package:test_one/kpay_exchange_rate_page.dart';
+import 'package:test_one/pages/cash_in_page.dart';
 
 import 'cash_out_page.dart';
-import 'main.dart';
-
+import '../../utils/constants.dart';
+import 'kpay_exchange_rate_page.dart';
 class MyBalancePage extends StatelessWidget {
   const MyBalancePage({super.key});
 

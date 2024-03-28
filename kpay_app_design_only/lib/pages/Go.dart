@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:test_one/main.dart';
 import 'package:test_one/myPage/about_kbz_pay_page_body.dart';
 import 'package:test_one/myPage/change_phone_page_body.dart';
 import 'package:test_one/myPage/choose_language_page_body.dart';
@@ -13,6 +12,7 @@ import 'package:test_one/myPage/pin_page_body.dart';
 import 'package:test_one/myPage/share_app_page_body.dart';
 import 'package:test_one/myPage/setting_page_body.dart';
 import 'package:test_one/myPage/tutorial_page_body.dart';
+import 'package:test_one/utils/constants.dart';
 
 class NextPage extends StatelessWidget {
   final String title;

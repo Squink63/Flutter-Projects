@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:test_one/main.dart';
-import 'package:test_one/message_item.dart';
+import '../../utils/constants.dart';import 'package:test_one/item_view/message_item.dart';
 
 class KPayMessagePage extends StatelessWidget {
   const KPayMessagePage({super.key});

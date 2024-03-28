@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:test_one/data/my_profilfe.dart';
 import 'package:test_one/my_profile/next_to_my_profile_page.dart';
-import 'package:test_one/set_photo_page.dart';
 
-import '../main.dart';
+import '../pages/set_photo_page.dart';
+import '../utils/constants.dart';
 
 class MyProfilePage extends StatelessWidget {
   const MyProfilePage({super.key});
