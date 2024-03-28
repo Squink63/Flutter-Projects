@@ -1,0 +1,4 @@
+#Thu Mar 28 17:44:29 MMT 2024
+base.0=/Users/amemeko/Documents/kpay_app_design_only/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

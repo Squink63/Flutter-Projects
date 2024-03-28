@@ -1,0 +1,1 @@
+ /Users/amemeko/Documents/Test/.dart_tool/flutter_build/54c48445a8a74aaaa92d8e955601c4dc/native_assets.yaml: 

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0487a80a-d881-413f-ba58-4cfbbdad076b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/dart_introduction/lib/classes_and_inheritance.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/dart_introduction/lib/collections.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/dart_introduction/lib/constructors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/dart_introduction/lib/exceptions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/dart_introduction/lib/extensions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/dart_introduction/lib/functions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/dart_introduction/lib/futures.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/dart_introduction/lib/generics.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/dart_introduction/lib/mixin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/dart_introduction/lib/operators_and_control_flow.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/app_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/background_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/booking_button_end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/booking_button_side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/buildings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/buy_ticket_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/cinema_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/color_bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/credit_card_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/dash_line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/date_card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/date_card_rectangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/date_card_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/food_item.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/gift_voucher_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/google_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_cancel_food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_chair_taken.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_date.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_gift_card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_imdb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_logout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_offer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_parking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_payment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_place.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_profile_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_qr_code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/icon_wheel_chair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/info_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/log_in_sign_up_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/mobile_wallet_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/my_ticket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/net_banking_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/payment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/quick_pay_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/redeem_point_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/release_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/safety.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/screen_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/set_notification_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/snack_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/successful_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/ticket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/ticket_cancellation_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/ticket_receipt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/ticket_section_circle_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/ticket_section_circle_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/unlock_offer_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/upi_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/assets/images/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/fonts/Inter.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/data/vos/seat_vo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/list_items/cast_item_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/list_items/cinema_list_item_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/list_items/cinema_time_list_item_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/list_items/date_card_item_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/list_items/movie_list_item_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/list_items/ordered_snack_list_item_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/list_items/seat_item_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/list_items/snack_list_item_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/list_items/snack_order_list_item_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/networks/api_constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/networks/data_agents/http_data_agent_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/choose_seat_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/choose_time_and_cinema_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/cinema_details_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/get_otp_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/location_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/login_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/main_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/movie_detail_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/payment_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/search_movies_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/snack_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/splash_screen_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/ticket_check_out_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/pages/ticket_confirmation_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/utils/colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/utils/dimens.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/utils/fonts.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/utils/images.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/the_movie_booking_app/lib/utils/strings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/assets/icons/Netflix-new-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/assets/icons/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/assets/icons/pngegg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/assets/icons/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/assets/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/assets/icons/search_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/bottom_navigation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/bottom_sheet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/container_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/custom_scroll_view_and_slivers.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/dialogs.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/list_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/navigation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/navigation_drawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/widgets_tht_arrange_other_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PADCFlutter/view_layer_part_one/lib/wrap_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/a_bank_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/animal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/app_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/aya_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/bill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/book.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/cash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/cash_in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/cash_out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/change.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/chef.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/circus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/cooker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/dot.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/enter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/exchange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/famous.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/fingerprint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/food1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/gift_card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/jj_express.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/kpay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/kpay_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/like.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/like_filled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/mahar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/menu1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/mini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/more_dot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/mr_chef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/mr_chef1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/my_medicine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/nearby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/potted-plant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/pubg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/qr-code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/quick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/roblox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/scan1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/shoe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/social.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/sofa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/speaker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/speech-bubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/spotify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/steam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/tea-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/top-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/truck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/us_flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/verified-account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fonts/YorkieDEMO-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fonts/netflixsans-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsons/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsons/es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Go.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/LifeItemView.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/a_bank_login_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/a_bank_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/aya_pay_agent_home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/aya_pay_agent_login.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/aya_pay_partner_dashboard_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/aya_pay_partner_home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/aya_pay_partner_main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/buttons.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/calculator_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/cooker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/discount_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/emi_tab.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/example.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/exchange_rate_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/exchange_tab.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/flower.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/grid.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/home_page_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/kapy_my_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/kpay_home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/kpay_life_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/kpay_main_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/kpay_message_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/loan_tab.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/localization.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/login.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/message_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/about_kbz_pay_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/change_phone_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/choose_language_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/coupon_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/help_feedback_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/limit_fee_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/nearby_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/pattern_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/pin_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/setting_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/share_app_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/myPage/tutorial_page_body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/my_service_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/otp.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/saving_tab.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/set_photo_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/stack.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/stateful_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/textfield.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/tutorial.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/wrap.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locales/en_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locales/es_ES.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2bUmitVuabkvIWqTvunE1Rku0wh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0487a80a-d881-413f-ba58-4cfbbdad076b" name="Changes" comment="" />
+      <created>1706278161418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706278161418</updated>
+    </task>
+    <servers />
+  </component>
+</project>
